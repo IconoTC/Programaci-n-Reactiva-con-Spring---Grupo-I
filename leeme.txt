@@ -1,0 +1,10 @@
+Os he subido los proyectos de microservicios ya funcionando con el servidor Eureka.
+En el micro-servicio-eureka-server me faltaba agregar la dependencia spring-webflux
+
+Mirar como he creado WebClient en los microservicios porque tambien ha cambiado algo.
+
+Por otra parte, esta tarde con vuestros compañeros hemos creado una aplicacion FRONT que accede a los microservicios,
+os la subo para que la tengais de ejemplo, lo unico cambiar los puertos de los WebClient de Productos y Carrito que son otros.
+
+Saludos,
+Anabel.
