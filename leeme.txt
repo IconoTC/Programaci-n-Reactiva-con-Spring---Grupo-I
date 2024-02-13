@@ -5,6 +5,7 @@ Mirar como he creado WebClient en los microservicios porque tambien ha cambiado 
 
 Por otra parte, esta tarde con vuestros compañeros hemos creado una aplicacion FRONT que accede a los microservicios,
 os la subo para que la tengais de ejemplo, lo unico cambiar los puertos de los WebClient de Productos y Carrito que son otros.
+La aplicacion es app-front-web.
 
 Saludos,
 Anabel.
